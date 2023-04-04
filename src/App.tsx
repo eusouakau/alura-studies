@@ -1,5 +1,5 @@
 import React from 'react';
-import Botao from './components';
+import Botao from './components/Botao';
 
 function App() {
   return (
